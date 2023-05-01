@@ -2,7 +2,7 @@ name: Generate design tokens
 
 on:
   repository_dispatch:
-    types: master
+    types: update-tokens
 
 jobs:
   build:
