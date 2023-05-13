@@ -35,3 +35,28 @@ Curso de Figma da <a href="https://www.rocketseat.com.br/"> Rocketseat </a> mini
      - [x] Exportação de Design Tokens
      - [x] Automatização Design Tokens com Github Actions
      - [x] Tokens não-nativos do Figma
+
+### Figma 
+
+O layout, tokens, components, estão disponíveis em:
+
+<a href="https://www.figma.com/file/ihqHkIy8GFghxq4q78RfYz/FigmaForDevs?type=design&t=ajL0nILge8ztvpI8-6">
+  <img src="https://img.shields.io/badge/Acessar%20%20-Figma-%2304D361">
+</a>
+<br/>
+
+<p>
+  <img src="https://github.com/KRochaS/figma-tokens/blob/master/.github/home-web.png" width="700" >
+</p>
+
+<p>
+  <img src="https://github.com/KRochaS/figma-tokens/blob/master/.github/home-mobile.png" width="320" >
+</p>
+
+<p>
+  <img src="https://github.com/KRochaS/figma-tokens/blob/master/.github/component.png" width="700" >
+</p>
+
+<p>
+  <img src="https://github.com/KRochaS/figma-tokens/blob/master/.github/colors.png" width="700" >
+</p>
